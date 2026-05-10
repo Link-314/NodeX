@@ -1,5 +1,7 @@
 # NodeX
 
+### A fully working version of NodeX will be released on 07/15/2026
+
 A powerful, extensible command-line shell written in Python.
 
 NodeX combines features from traditional shells (like Bash/PowerShell) with a plugin system, custom commands, and a modern, color-capable interface. It is designed for developers who want flexibility and control inside a Python-driven environment.
